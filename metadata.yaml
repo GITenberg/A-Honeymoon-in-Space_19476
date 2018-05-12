@@ -1,0 +1,32 @@
+_repo: A-Honeymoon-in-Space_19476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffith, George Chetwynd
+    alias: Griffith-Jones, George Chetwynd
+    birthdate: 1857
+    deathdate: 1906
+    gutenberg_agent_id: '8557'
+    url: http://www.gutenberg.org/2009/agents/8557
+    wikipedia: http://en.wikipedia.org/wiki/George_Griffith
+description: Who says classic science fiction is all hard edges and taciturn heroes?
+  George Griffith's classic A Honeymoon in Space follows newlyweds Zaidie Rettick
+  and Lord Redgrave on their post-nuptial journey through the solar system, in which
+  they encounter a staggering array of alien cultures and creatures.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+title: A Honeymoon in Space
+url: http://www.gutenberg.org/ebooks/19476
